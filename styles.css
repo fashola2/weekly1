@@ -1,0 +1,177 @@
+.nav-ul {
+display: flex;
+align-items: center;
+ list-style: none;
+
+}
+
+.nav-bar {
+  background-color: white;
+  width: 100%;
+
+}
+.Logo {
+  width: 40px;
+
+  display: flex;
+  justify-content: flex-start;
+
+}
+
+.nav-item {
+  width: 45px;
+  margin: auto;
+
+}
+
+.links {
+  display: flex;
+  justify-content: flex-end;
+}
+
+a:link {
+  color: #968772
+}
+
+a:hover {
+  color: #967343
+}
+
+a:visited {
+  color: #968772
+}
+
+h1 {
+  font-size: -webkit-xxx-large;
+}
+
+h2 {
+  padding-bottom: 30px;
+}
+
+.siteheader {
+  background-color: white;
+  height: 45px;
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  background-color: #F2F1E8;
+  display: flex;
+  flex-direction: column;
+}
+
+.row-1 {
+  display: flex;
+  justify-content: space-between;
+  list-style: none
+}
+
+.row-2 {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+
+}
+
+.text-1 {
+  display: flex;
+  color: white;
+  justify-content: space-between;
+}
+
+.words {
+  background-color: green
+  }
+
+section {
+  justify-content: center;
+}
+
+.pix {
+  height: 360px;
+  width: 98%
+}
+
+.pix1 {
+  height: 360px;
+  width: 98%;
+}
+
+#product1 {
+  background: url(images/product-1.jpg);
+  background-size: cover;
+  min-width: 300px;
+
+}
+
+#product2 {
+  background: url(images/product-2.jpg);
+  background-size: cover;
+  min-width: 300px;
+}
+
+#product3 {
+  background: url(images/product-3.jpg);
+  background-size: cover;
+  min-width: 300px;
+}
+
+.pix3 {
+  height: 300px;
+  width: 98%;
+
+}
+
+.large-title {
+  text-align: center;
+}
+
+.small-title {
+  text-align: center;
+}
+
+.whole-bar {
+  display: flex;
+  flex-direction: column;
+}
+
+.about-body-pic {
+  width: 15%;
+  float: left;}
+
+  .about-body {
+    margin-left: 7%;
+  }
+
+.fine-print {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5%
+}
+
+#prod1 {
+  background: url(images/background-3.jpg);
+  background-size: cover;
+}
+
+#prod2 {
+  background: url(images/background-1.jpg);
+  background-size: contain;
+  width: 16%;
+  height: 88px;
+}
+
+.background-img2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.big-tex {
+  display: flex;
+  font-size: 90px;
+  justify-content: center;
+  color: white;
+}
